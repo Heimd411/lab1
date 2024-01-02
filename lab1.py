@@ -21,3 +21,7 @@ print(f'If we divide both numbers we get {number1/number2}\n')
 #Age from dob
 yearborn = 1977
 print(f'If you were born in {yearborn} then you are {datetime.datetime.today().year - yearborn} years old.\n')
+
+#Add moms to price
+price = 55
+print(f'{55*1.25}')
