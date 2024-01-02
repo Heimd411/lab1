@@ -30,4 +30,13 @@ print(f'{55*1.25}\n')
 for i in range(5):
     print(first)
 
+#Matematik
+print(f'{((5+5)-2*2)/3}')
+
+#Hex
+print(f'{0xff}')
+
+#Reverse
+revtest = first[::-1]
+print(revtest)
 
