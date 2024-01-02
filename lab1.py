@@ -31,12 +31,17 @@ for i in range(5):
     print(first)
 
 #Matematik
-print(f'{((5+5)-2*2)/3}')
+print(f'\n{((5+5)-2*2)/3}\n')
 
 #Hex
-print(f'{0xff}')
+print(f'{0xff}\n')
 
 #Reverse
 revtest = first[::-1]
 print(revtest)
 
+#Variabler
+foo = "Hej"
+boo = "dig"
+hoo = "!"
+print(f'{foo} {boo}{hoo}')
