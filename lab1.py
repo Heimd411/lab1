@@ -24,4 +24,10 @@ print(f'If you were born in {yearborn} then you are {datetime.datetime.today().y
 
 #Add moms to price
 price = 55
-print(f'{55*1.25}')
+print(f'{55*1.25}\n')
+
+#Repetition
+for i in range(5):
+    print(first)
+
+
